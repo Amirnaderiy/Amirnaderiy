@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">A Biomedical Engineering student who is interested in machine learning</h3>
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=amirnaderiy.amirnaderiy)
+[![Github](https://img.shields.io/github/followers/amirnaderiy?label=Follow&style=social)](https://github.com/amirnaderiy)
+
+<div size='20px'> My name is Amir. Thanks for taking the time to view my GitHub Profile. 
+</div>
+
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/amirnaderiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirnaderiy" height="30" width="40" /></a>
@@ -16,4 +22,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amirnaderiy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirnaderiy&theme=great-gatsby&show_icons=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amirnaderiy&theme=dark)](https://git.io/streak-stats)
+
+
