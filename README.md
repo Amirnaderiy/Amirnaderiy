@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">A Biomedical Engineering student who is interested in machine learning</h3>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/amirnaderiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirnaderiy" height="30" width="40" /></a>
 <a href="https://kaggle.com/amirnaderiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amirnaderiy" height="30" width="40" /></a>
