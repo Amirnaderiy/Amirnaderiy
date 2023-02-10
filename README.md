@@ -1,3 +1,6 @@
+![Alt text](https://github.com/Amirnaderiy/Amirnaderiy/blob/main/Picture2.png)
+
+
 <h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">A Biomedical Engineering student who is interested in machine learning</h3>
 
