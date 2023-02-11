@@ -1,7 +1,10 @@
 ![Alt text](https://github.com/Amirnaderiy/Amirnaderiy/blob/main/Picture2.png)
 
 
-<h1 align="center">Hi 👋, I'm Amir</h1>
+<h1 align="center">
+  <span style="color: white">Hi 👋, I'm </span>
+  <span style="color: orange">Amir</span>
+</h1>
 <h3 align="center">A Biomedical Engineering student who is interested in machine learning</h3>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=amirnaderiy.amirnaderiy)
