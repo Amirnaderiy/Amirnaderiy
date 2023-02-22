@@ -30,12 +30,12 @@
 <div align="center">
 
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" /> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70" /> </a>
   &nbsp; &nbsp;
 
-  <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/matlab.svg" alt="matlab" width="60" height="60" /> </a>
+  <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/matlab.svg" alt="matlab" width="70" height="70" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="60" height="60" /> </a>
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="70" height="70" /> </a>
   &nbsp; &nbsp;
 
 
