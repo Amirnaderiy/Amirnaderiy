@@ -1,173 +1,54 @@
-<h1 align="center">Hi 👋, I'm Amir Reza Naderi</h1>
+# Amir Reza Naderi Yaghouti
 
-<h3 align="center">
-  PhD Researcher in Biomedical AI <br/>
-  Medical Imaging · Computer Vision · Explainable Deep Learning
-</h3>
+**Marie Skłodowska-Curie Doctoral Fellow · Medical Image Analysis · Deep Learning for Ophthalmology and Neuroimaging**\
 
-<p align="center">
-  <i>Building trustworthy AI systems for medical image analysis and clinical decision support.</i>
-</p>
+Otto von Guericke University Magdeburg (Germany) · University Medical Center Groningen (the Netherlands)\
+EGRET-AAA Doctoral Network, Horizon Europe (grant agreement No 101072435)
 
----
-
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=WmUoRTsAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/amirnaderiy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:naderi.bme@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/amirnaderiy">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
+[![Website](https://img.shields.io/badge/Website-amirnaderi.com-1f2937?style=flat-square)](https://amirnaderi.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=WmUoRTsAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9269--8084-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9269-8084)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amirnaderiy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirnaderiy/)
+[![Email](https://img.shields.io/badge/Email-naderi.bme%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:naderi.bme@gmail.com)
 
 ---
 
-## 👨‍🔬 About Me
+## About
 
-I am **Amir Reza Naderi**, a **PhD researcher in Biomedical AI** with a background in **Biomedical Engineering** and research experience in **machine learning, computer vision, and medical image analysis**.
+I develop deep learning methods for medical images, with a focus on glaucoma and the visual pathway. My PhD work covers glaucoma detection and staging from retinal fundus photographs, and segmentation of the optic chiasm on MRI to study how glaucoma affects the brain. I am particularly interested in retinal foundation models, explainable AI and moving AI tools into clinical use.
 
-My work focuses on developing deep learning methods for clinically relevant imaging problems, with particular interest in **medical image classification, segmentation, biomarker discovery, and explainable AI**.
+Before my PhD I worked on machine learning for liver disease (ultrasound and blood-based markers) and ovarian tumour classification.
 
-- 🔬 Researching **deep learning for biomedical image analysis**
-- 🧠 Interested in **medical AI, computer vision, ophthalmology, and explainability**
-- 🛠 Daily tools: **Python, PyTorch, MONAI, OpenCV, scikit-learn, MATLAB**
-- 📚 Publications available on [Google Scholar](https://scholar.google.com/citations?user=WmUoRTsAAAAJ&hl=en)
-- 🤝 Open to **research collaborations and academic partnerships**
-- 📫 Reach me at **naderi.bme@gmail.com**
+## Current research
 
----
+- **Glaucoma from fundus photographs.** Fine-tuning and adapting retinal foundation models (RETFound) and testing which image regions the models actually rely on, beyond the optic nerve head.
+- **Optic chiasm segmentation on MRI.** Automated 3D segmentation (MedSAM family) to measure chiasm volume as a structural marker in glaucoma.
+- **Explainable and deployable AI.** Attention-based explanations, image-quality gating and desktop tools for screening.
 
-## 🔬 Research Interests
+## Featured repositories
 
-<p>
-  <img src="https://img.shields.io/badge/Medical%20Imaging-009688?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Explainable%20AI-795548?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ophthalmic%20AI-1976D2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Biomarker%20Discovery-607D8B?style=flat-square" />
-</p>
+| Repository | What it is |
+|---|---|
+| [ovarian_tabpfn](https://github.com/Amirnaderiy/ovarian_tabpfn) | Benign vs malignant ovarian tumour classification from routine lab biomarkers with the TabPFN tabular foundation model. Reproducible pipeline, archived on Zenodo. |
+| [Classification-of-the-grade-of-Non-alcoholic-fatty-liver](https://github.com/Amirnaderiy/Classification-of-the-grade-of-Non-alcoholic-fatty-liver) | NAFLD grading from B-mode ultrasound by combining features from seven pretrained CNNs with GLCM radiomics, feature selection and gradient-boosted classifiers. |
+| [Classification-of-Liver-Fat](https://github.com/Amirnaderiy/Classification-of-Liver-Fat) | Transfer-learning baseline (EfficientNet-B7) and CNN feature extraction for four-grade liver fat classification on ultrasound. |
 
----
+## Selected publications
 
-## 🧪 Current Research Focus
+- **Naderi Yaghouti AR**, Shalbaf A. Classification of nonalcoholic fatty liver grades using pre-trained convolutional neural networks and a random forest classifier on B-mode ultrasound images. *Journal of Biomedical Physics and Engineering*, 2025. [Link](https://jbpe.sums.ac.ir/article_49907.html)
+- **Naderi Yaghouti AR**, Shalbaf A, Alizadehsani R, Tan RS, Vijayananthan A, et al. Artificial intelligence for ovarian cancer detection with medical images: a review of the last decade (2013–2023). *Archives of Computational Methods in Engineering* 32(7):4093–4124, 2025. [doi:10.1007/s11831-025-10268-x](https://doi.org/10.1007/s11831-025-10268-x)
+- **Naderi Yaghouti AR**, Zamanian H, Shalbaf A. Machine learning approaches for early detection of non-alcoholic steatohepatitis based on clinical and blood parameters. *Scientific Reports* 14:2442, 2024. [doi:10.1038/s41598-024-51741-0](https://doi.org/10.1038/s41598-024-51741-0)
+- **Naderi Yaghouti AR**, Shalbaf A, Maghsoudi A. Automatic classification of non-alcoholic fatty liver using texture features from ultrasound images. *Tehran University Medical Journal* 79(1):10–17, 2021. [Link](https://tumj.tums.ac.ir/article-1-11130-en.html)
 
-- **Deep learning for glaucoma detection from fundus images**
-- **Optic nerve head and retinal structure analysis**
-- **Explainable AI for medical imaging**
-- **Deep learning-based biomarker discovery**
-- **Transfer learning for limited medical datasets**
-- **Clinically interpretable AI systems**
+Full list on [Google Scholar](https://scholar.google.com/citations?user=WmUoRTsAAAAJ&hl=en).
 
----
+## Tools
 
-## 📌 Featured Research Projects
+**Deep learning:** PyTorch, MONAI, TensorFlow/Keras\
+**Machine learning:** scikit-learn, XGBoost, LightGBM, SHAP\
+**Imaging:** OpenCV, texture and radiomic features (GLCM)\
+**Other:** Python, MATLAB, Git, HPC clusters (A100 GPUs), PyQt
 
-### 🧠 Deep Learning for Glaucoma Detection
+## Contact
 
-Development of deep learning pipelines for glaucoma detection using fundus images, including optic nerve head analysis, image classification, segmentation, and saliency-based explainability.
-
-**Keywords:** Fundus Imaging · Glaucoma · MONAI · PyTorch · Explainable AI
-
----
-
-### 🫀 NAFLD Classification from Medical Images
-
-Machine learning and deep learning-based classification of non-alcoholic fatty liver disease using ultrasound images, radiomics, convolutional features, and classical machine learning classifiers.
-
-**Keywords:** NAFLD · Ultrasound Imaging · Transfer Learning · Radiomics · CNNs
-
----
-
-### 🔍 Explainable Medical AI
-
-Research interest in developing interpretable models for medical image analysis, focusing on understanding what deep learning models learn from clinical images.
-
-**Keywords:** Grad-CAM · Saliency Maps · Biomarkers · Trustworthy AI
-
----
-
-## 📚 Publications
-
-- **Automatic classification of Non-alcoholic Fatty Liver using texture features from ultrasound images**  
-  *Tehran University Medical Journal, 2021*
-
-- **Classifying Nonalcoholic Fatty Liver Grades using Pretrained Convolutional Neural Networks and Random Forest Classifier**  
-  *Research work on transfer learning and medical image classification*
-
-- **Classification of Nonalcoholic Fatty Liver using the Integration of Textural and Convolutional Features and XGBoost Classifier**  
-  *Research work on hybrid feature extraction and machine learning*
-
-For the full publication list, please visit my  
-[Google Scholar Profile](https://scholar.google.com/citations?user=WmUoRTsAAAAJ&hl=en).
-
----
-
-## 🛠 Skills & Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" height="50" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" />
-</p>
-
-### Programming & Frameworks
-
-`Python` · `PyTorch` · `TensorFlow` · `Keras` · `MONAI` · `OpenCV` · `scikit-learn` · `MATLAB` · `NumPy` · `Pandas`
-
-### Machine Learning
-
-`Deep Learning` · `Transfer Learning` · `CNNs` · `Image Classification` · `Segmentation` · `Feature Selection` · `Radiomics`
-
-### Medical Imaging
-
-`Fundus Imaging` · `Ultrasound Imaging` · `Biomedical Image Analysis` · `Clinical AI` · `Explainable AI`
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirnaderiy&theme=great-gatsby&show_icons=true&count_private=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirnaderiy&theme=great-gatsby&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 🤝 Collaboration
-
-I am interested in collaborations related to:
-
-- Medical image analysis
-- Ophthalmic AI
-- Explainable deep learning
-- Biomedical computer vision
-- AI-based clinical decision support
-- Research software development in Python and PyTorch
-
----
-
-<p align="center">
-  <i>Thanks for visiting my profile. Always open to meaningful research collaboration and new scientific ideas.</i>
-</p>
+I am open to research collaborations and postdoctoral opportunities in medical image analysis, ophthalmic AI and clinical AI. The best way to reach me is by [email](mailto:naderi.bme@gmail.com).
