@@ -1,6 +1,6 @@
 # Amir Reza Naderi Yaghouti
 
-**Marie Skłodowska-Curie Doctoral Fellow · Medical Image Analysis · Deep Learning for Ophthalmology and Neuroimaging**\
+**Marie Skłodowska-Curie Doctoral Fellow · Medical Image Analysis · Deep Learning for Ophthalmology and Neuroimaging**
 
 Otto von Guericke University Magdeburg (Germany) · University Medical Center Groningen (the Netherlands)\
 EGRET-AAA Doctoral Network, Horizon Europe (grant agreement No 101072435)
